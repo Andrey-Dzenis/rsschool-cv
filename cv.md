@@ -35,5 +35,3 @@ int multiply(int a, int b) {
 ### Education
 * Higher State Sollege of Communications
 * Languages: English - A1
-
-
